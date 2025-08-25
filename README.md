@@ -11,7 +11,7 @@
 <h2>Dataset</h2>
 <ul>
   <li><b>Source:</b> Kaggle</li>
-  <li><b>Number of Rows-:</b> 25,134</li>
+  <li><b>Number of Rows:</b> 25,134</li>
   <li><b>Number of Columns:</b> 20</li>
   <li><b>Target Column:</b> Status (Approved/Rejected)</li>
 </ul>
